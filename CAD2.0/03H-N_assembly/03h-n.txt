@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"80-08082008-623052";"";
+"REFERENCE";"03H-N";"";
+"TraceParts.PartTitle";"Universal Joint (Single), Needle bearings, Heavy Duty, Series H, DIN808, Maintenance free";"";
+"TraceParts.InstanceId";"80-08082008-6230522IKYD5YRFXMMY45TV4V454V9R";"";
+"DESIGN";"Single universal joint with needle bearings, reinforced construction, maintenance free, series H, DIN 808-W";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"T.E.A. Transmissions Pty Ltd - Australia";"";
+"TraceParts.PartVersion";"1.1.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"TEA_AUS:80-08082008-623052";"";
