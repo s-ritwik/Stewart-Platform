@@ -9,8 +9,8 @@ This is my undergraduate project aimed at mimicking ship motion and developing a
 - **CAD Models**: Detailed CAD models of the platform and associated components are available for reference.
 
 ## Available Resources
-- **[Project Report](link-to-report)**: A comprehensive report detailing the project’s objectives, methodologies, and results.
-- **[CAD Models](link-to-cad-models)**: Access the CAD models used in this project.
+- **[Project Report](Stewart_Platform_1.pdf)**: A comprehensive report detailing the project’s objectives, methodologies, and results.
+- **[CAD Models](CAD2.0)**: Access the CAD models used in this project.
 
 ## Future Updates
 The final pipeline, including Arduino/Raspberry Pi integration, will be posted soon after concluding all tests.
