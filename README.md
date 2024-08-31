@@ -19,4 +19,4 @@ The final pipeline, including Arduino/Raspberry Pi integration, will be posted s
 Contributions are welcome! Feel free to fork the repository and submit pull requests. If you have any questions or suggestions, please open an issue.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](link-to-license) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
