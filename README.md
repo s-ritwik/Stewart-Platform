@@ -1,5 +1,8 @@
 # Ship Motion Mimicking and Self-Stabilizing Platform Project
 
+![Alt Text](Stewart_gif.gif)
+
+
 ## Overview
 This is my undergraduate project aimed at mimicking ship motion and developing a self-stabilizing platform. The project focuses on accurately replicating the dynamic movements of a ship and ensuring that the platform remains stable under various simulated conditions.
 
