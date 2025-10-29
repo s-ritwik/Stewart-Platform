@@ -1,6 +1,7 @@
 # Ship Motion Mimicking and Self-Stabilizing Platform Project
 
 ![Alt Text](Stewart_gif.gif)
+![Alt Text](Prototype.jpeg)
 
 
 ## Overview
